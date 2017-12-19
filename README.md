@@ -26,3 +26,5 @@ Email. info@imagitechstudios.com
 ## Commit List
 
 * HS01 Setup remote Github repo and update readme
+* HS02 Game Design Document (GDD)
+
