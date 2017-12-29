@@ -28,3 +28,4 @@ Email. info@imagitechstudios.com
 * HS01 Setup remote Github repo and update readme
 * HS02 Game Design Document (GDD)
 * HS03 Create Unreal Project Files and Battleground map
+* HS04 Created Battleground Landscape
