@@ -30,3 +30,4 @@ Email. info@imagitechstudios.com
 * HS03 Create Unreal Project Files and Battleground map
 * HS04 Created Battleground Landscape
 * HS05 Created Control System Document
+* HS06 Created Tank Character
