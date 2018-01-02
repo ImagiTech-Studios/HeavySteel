@@ -35,3 +35,4 @@ Email. info@imagitechstudios.com
 * HS08 Fixed Camera Rotation
 * HS09 Added Player UI Aiming Reticle
 * HS10 Created Main Menu Screen
+* HS11 Setup Main Menu Functionality
