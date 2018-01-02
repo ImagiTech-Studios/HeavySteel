@@ -31,3 +31,4 @@ Email. info@imagitechstudios.com
 * HS04 Created Battleground Landscape
 * HS05 Created Control System Document
 * HS06 Created Tank Character
+* HS07 Created Camera w/ Input Bindings
