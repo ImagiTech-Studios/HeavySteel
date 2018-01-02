@@ -32,3 +32,4 @@ Email. info@imagitechstudios.com
 * HS05 Created Control System Document
 * HS06 Created Tank Character
 * HS07 Created Camera w/ Input Bindings
+* HS08 Fixed Camera Rotation
