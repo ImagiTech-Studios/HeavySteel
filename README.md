@@ -36,3 +36,4 @@ Email. info@imagitechstudios.com
 * HS09 Added Player UI Aiming Reticle
 * HS10 Created Main Menu Screen
 * HS11 Setup Main Menu Functionality
+* HS12 Created Tank Controller Elements For Player Input
