@@ -37,3 +37,4 @@ Email. info@imagitechstudios.com
 * HS10 Created Main Menu Screen
 * HS11 Setup Main Menu Functionality
 * HS12 Created Tank Controller Elements For Player Input
+* HS13 Log Player Controller Possession
